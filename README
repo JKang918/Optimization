@@ -1,1 +1,8 @@
-This repository is for Gurobi practices and other insights I learned in computational methods in optimization.
+This repository is to review the concepts that I studied and to learn how to implement them in python codes using gurobipy.
+
+I took an optimization course called "Deterministic Optimization"[(course description link)](https://catalog.gatech.edu/search/?P=ISYE%206669) from Georgia Tech from professor Renato Monteiro as part of MS in Operations Research program [(program description link)](https://www.isye.gatech.edu/academics/masters/degrees/ms-operations-research) in the fall of 2024. I successfully finished the course and received an A.
+After completing the course, I wanted to advance my understanding in optimization algorithms. 
+
+The modeling practice examples are offered by [Gurobi - Jupyter Modeling Examples](https://www.gurobi.com/jupyter_models/?_difficulty_level=introductory).
+
+The majority of codes and schematics are directly from the source, however significant portion of the comments within the main text here are written by myself.
