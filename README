@@ -1,4 +1,6 @@
-This repository is to review the concepts that I studied and to learn how to implement them in python codes using gurobipy.
+# Computational Methods in Optimization
+
+This repository is to review the concepts that I studied and to learn how to implement them in python codes using gurobipy although I plan to explore other tools as well in the future.
 
 I took an optimization course called "Deterministic Optimization"[(course description link)](https://catalog.gatech.edu/search/?P=ISYE%206669) from Georgia Tech from professor Renato Monteiro as part of MS in Operations Research program [(program description link)](https://www.isye.gatech.edu/academics/masters/degrees/ms-operations-research) in the fall of 2024. I successfully finished the course and received an A.
 After completing the course, I wanted to advance my understanding in optimization algorithms. 
